@@ -370,7 +370,7 @@ I'm available for freelance Laravel & Filament development:
 
 **Platforms:**
 - [Upwork Profile](https://www.upwork.com/freelancers/~0127f65430b516b7d6?viewMode=1)
-- [Fiverr Profile](https://fiverr.com/yourusername)
+- [Fiverr Profile](https://fiverr.com/ssemamborodney)
 
 ---
 
