@@ -108,7 +108,7 @@
 
 *Main dashboard with tables and quick actions*
 
-### 📊 Projects Management
+### 📊 Products Management
 ![Products List]
 <img width="1366" height="768" alt="Login - Retail_Mgt - Google Chrome 22_10_2025 13_36_29" src="https://github.com/user-attachments/assets/32b301d6-abb9-4d12-a501-d7ca209cb576" />
 
@@ -123,12 +123,10 @@
 ![Category List]
 <img width="1366" height="768" alt="Login - Retail_Mgt - Google Chrome 22_10_2025 13_35_28" src="https://github.com/user-attachments/assets/268e79c2-ea49-4322-80ef-a3379b59f64c" />
 
-*Task management with status tracking and assignments*
 
 ![Category page]
 <img width="1366" height="768" alt="Login - Retail_Mgt - Google Chrome 22_10_2025 13_35_42" src="https://github.com/user-attachments/assets/68f36ee5-7d07-44fd-ae3a-914c4469cbb8" />
 
-*Visual task board for better workflow management*
 
 ### 👥 Team & Users
 ![User Management]
@@ -370,7 +368,7 @@ I'm available for freelance Laravel & Filament development:
 
 **Platforms:**
 - [Upwork Profile](https://www.upwork.com/freelancers/~0127f65430b516b7d6?viewMode=1)
-- [Fiverr Profile](https://fiverr.com/ssemamborodney)
+- [Fiverr Profile](https://www.fiverr.com/users/ssemamb45)
 
 ---
 
